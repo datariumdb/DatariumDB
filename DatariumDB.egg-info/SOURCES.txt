@@ -39,7 +39,7 @@ datariumdb/backend/rethinkdb/connection.py
 datariumdb/backend/rethinkdb/query.py
 datariumdb/backend/rethinkdb/schema.py
 datariumdb/commands/__init__.py
-datariumdb/commands/bigchaindb.py
+datariumdb/commands/datariumdb.py
 datariumdb/commands/messages.py
 datariumdb/commands/utils.py
 datariumdb/common/__init__.py

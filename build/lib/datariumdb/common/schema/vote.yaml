@@ -59,7 +59,7 @@ properties:
 
             .. container:: notice
 
-              **Note**: The invalid_reason was not being used and may be dropped in a future version of DatariumDB. See Issue `#217 <https://github.com/bigchaindb/bigchaindb/issues/217>`_ on GitHub.
+              **Note**: The invalid_reason was not being used and may be dropped in a future version of DatariumDB. See Issue `#217 <https://github.com/datariumdb/datariumdb/issues/217>`_ on GitHub.
         - type: "null"
       timestamp:
         type: "string"
